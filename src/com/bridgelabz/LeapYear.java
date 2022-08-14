@@ -3,7 +3,7 @@
         b. Logic -> Determine if it is a Leap Year.
         c. O/P -> Print the year is a Leap Year or not.*/
 
-package javaClass.assignment;
+package com.bridgelabz;
 
 import java.util.Scanner;
 

@@ -6,7 +6,7 @@ delta = b*b - 4*a*c
 Root 1 of x = (-b + sqrt(delta))/(2*a)
 Root 2 of x = (-b - sqrt(delta))/(2*a)
 */
-package javaClass.assignment;
+package com.bridgelabz;
 
 import java.util.Scanner;
 

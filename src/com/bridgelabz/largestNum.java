@@ -1,6 +1,6 @@
 /*Java Program to Find the Largest Among Three Numbers*/
 
-package javaClass.assignment;
+package com.bridgelabz;
 
 import java.util.Scanner;
 

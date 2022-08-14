@@ -8,7 +8,7 @@ Note: the formula is not valid if t is larger than 50 in absolute value or if v 
 than 120 or less than 3 (you may assume that the values you get are in that range).
 */
 
-package javaClass.assignment;
+package com.bridgelabz;
 
 public class windchill {
 

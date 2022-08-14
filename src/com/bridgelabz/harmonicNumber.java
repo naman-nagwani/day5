@@ -6,7 +6,7 @@ c. Logic -> compute 1/1 + 1/2 + 1/3 + ... + 1/N
 d. O/P -> Print the Nth Harmonic Value.
 */
 
-package javaClass.assignment;
+package com.bridgelabz;
 
 import java.util.Scanner;
 

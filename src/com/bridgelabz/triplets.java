@@ -7,7 +7,7 @@ c. Logic -> Find distinct triples (i, j, k) such that a[i] + a[j] + a[k] = 0
 d. O/P -> One Output is number of distinct triplets as well as the second output is to
 print the distinct triplets.
 */
-package javaClass.assignment.day5;
+package com.bridgelabz;
 
 import java.util.Scanner;
 

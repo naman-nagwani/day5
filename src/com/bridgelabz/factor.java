@@ -6,7 +6,7 @@ c. Logic -> Traverse till i*i <= N instead of i <= N for efficiency.
 d. O/P -> Print the prime factors of number N.
 */
 
-package javaClass.assignment.day5;
+package com.bridgelabz;
 
 import java.util.Scanner;
 

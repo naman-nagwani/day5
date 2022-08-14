@@ -1,5 +1,5 @@
 /*Java Program to Check Whether an Alphabet is Vowel or Consonant*/
-package javaClass.assignment;
+package com.bridgelabz;
 
 import java.util.Scanner;
 

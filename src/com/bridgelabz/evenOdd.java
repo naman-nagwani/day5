@@ -1,6 +1,6 @@
 /*Java Program to Check Whether a Number is Even or Odd*/
 
-package javaClass.assignment;
+package com.bridgelabz;
 
 import java.util.Scanner;
 

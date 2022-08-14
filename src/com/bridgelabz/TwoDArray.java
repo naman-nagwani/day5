@@ -8,7 +8,7 @@ d. O/P -> Print function to print 2 Dimensional Array. In Java use PrintWriter w
 OutputStreamWriter to print the output to the screen.
 */
 
-package javaClass.assignment;
+package com.bridgelabz;
 
 import java.util.Scanner;
 

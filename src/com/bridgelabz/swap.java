@@ -1,6 +1,6 @@
 /*Java Program to Swap Two Numbers*/
 
-package javaClass.assignment;
+package com.bridgelabz;
 
 import java.util.Scanner;
 

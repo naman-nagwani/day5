@@ -1,6 +1,6 @@
 /*Java Program to Compute Quotient and Remainder*/
 
-package javaClass.assignment;
+package com.bridgelabz;
 
 import java.util.Scanner;
 
